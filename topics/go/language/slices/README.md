@@ -25,8 +25,8 @@ https://github.com/golang/go/wiki/SliceTricks
 
 [Declare and Length](example1/example1.go) ([Go Playground](https://play.golang.org/p/lDKravTEqF))  
 [Reference Types](example2/example2.go) ([Go Playground](https://play.golang.org/p/MuqPFwvDux))  
-[Appending slices](example4/example4.go) ([Go Playground](https://play.golang.org/p/xiI54S0bSN))  
-[Taking slices of slices](example3/example3.go) ([Go Playground](https://play.golang.org/p/Wq9JbadHkC))  
+[Appending slices](example4/example4.go) ([Go Playground](https://play.golang.org/p/iCUy8TRzHq))  
+[Taking slices of slices](example3/example3.go) ([Go Playground](https://play.golang.org/p/7mRb3BPfbI))  
 [Slices and References](example5/example5.go) ([Go Playground](https://play.golang.org/p/zYT3ls_DuV))  
 [Strings and slices](example6/example6.go) ([Go Playground](https://play.golang.org/p/x0Q5ByzxGS))  
 [Variadic functions](example7/example7.go) ([Go Playground](https://play.golang.org/p/58YyAeWjzw))  

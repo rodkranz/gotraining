@@ -17,12 +17,21 @@ func main() {
 	slice1[3] = "Grape"
 	slice1[4] = "Plum"
 
+	fmt.Print("slice 1 ")
 	inspectSlice(slice1)
 
 	// Take a slice of slice1. We want just indexes 2 and 3.
 	// Parameters are [starting_index : (starting_index + length)]
 	slice2 := slice1[2:4]
+	fmt.Print("slice 2 ")
 	inspectSlice(slice2)
+
+	// Make a new slice big enough to hold elements of slice 1 and copy the
+	// values over using the builtin copy function.
+	slice3 := make([]string, len(slice1))
+	copy(slice3, slice1)
+	fmt.Print("slice 3 ")
+	inspectSlice(slice3)
 
 	fmt.Println("*************************")
 
@@ -30,8 +39,12 @@ func main() {
 	slice2[0] = "CHANGED"
 
 	// Display the change across all existing slices.
+	fmt.Print("slice 1 ")
 	inspectSlice(slice1)
+	fmt.Print("slice 2 ")
 	inspectSlice(slice2)
+	fmt.Print("slice 3 ")
+	inspectSlice(slice3)
 }
 
 // inspectSlice exposes the slice header for review.
