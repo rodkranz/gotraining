@@ -9,6 +9,7 @@ import (
 	"context"
 	"io"
 	"log"
+	"net"
 	"net/http"
 	"os"
 	"time"
@@ -17,7 +18,7 @@ import (
 func main() {
 
 	// Create a new request.
-	req, err := http.NewRequest("GET", "https://www.goinggo.net/post/index.xml", nil)
+	req, err := http.NewRequest("GET", "https://www.ardanlabs.com/blog/post/index.xml", nil)
 	if err != nil {
 		log.Println(err)
 		return
@@ -28,7 +29,18 @@ func main() {
 	defer cancel()
 
 	// Declare a new transport and client for the call.
-	var tr http.Transport
+	tr := http.Transport{
+		Proxy: http.ProxyFromEnvironment,
+		DialContext: (&net.Dialer{
+			Timeout:   30 * time.Second,
+			KeepAlive: 30 * time.Second,
+			DualStack: true,
+		}).DialContext,
+		MaxIdleConns:          100,
+		IdleConnTimeout:       90 * time.Second,
+		TLSHandshakeTimeout:   10 * time.Second,
+		ExpectContinueTimeout: 1 * time.Second,
+	}
 	client := http.Client{
 		Transport: &tr,
 	}

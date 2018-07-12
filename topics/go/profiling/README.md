@@ -4,6 +4,8 @@ We can use the go tooling to inspect and profile our programs. Profiling is more
 
 ## The Basics of Profiling
 
+_"Those who can make you believe absurdities can make you commit atrocities" - Voltaire_
+
 ### How does a profiler work?
 
 A profiler runs your program and configures the operating system to interrupt it at regular intervals. This is done by sending SIGPROF to the program being profiled, which suspends and transfers execution to the profiler. The profiler then grabs the program counter for each executing thread and restarts the program.
@@ -33,7 +35,7 @@ Block profiling is quite unique. A block profile is similar to a CPU profile, bu
 
 Blocking includes:
 
-* Sending or receiving on a unbuffered channel.
+* Sending or receiving on an unbuffered channel.
 * Sending to a full channel, receiving from an empty one.
 * Trying to Lock a sync.Mutex that is locked by another goroutine.
 * Block profiling is a very specialised tool, it should not be used until you believe you have eliminated all your CPU and memory usage bottlenecks.
@@ -83,6 +85,7 @@ http://go-talks.appspot.com/github.com/davecheney/presentations/seven.slide#1
 
 Here is more reading and videos to also help get you started.
 
+[Language Mechanics On Escape Analysis](https://www.ardanlabs.com/blog/2017/05/language-mechanics-on-escape-analysis.html) - William Kennedy  
 [Profiling Go Programs](http://golang.org/blog/profiling-go-programs) - Go Team  
 [Profiling & Optimizing in Go](https://www.youtube.com/watch?v=xxDZuPEgbBU) - Brad Fitzpatrick  
 [Go Dynamic Tools](https://www.youtube.com/watch?v=a9xrxRsIbSU) - Dmitry Vyukov  

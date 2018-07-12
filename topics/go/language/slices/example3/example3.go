@@ -32,15 +32,23 @@ func main() {
 	// Display the change across all existing slices.
 	inspectSlice(slice1)
 	inspectSlice(slice2)
+
+	fmt.Println("*************************")
+
+	// Make a new slice big enough to hold elements of slice 1 and copy the
+	// values over using the builtin copy function.
+	slice3 := make([]string, len(slice1))
+	copy(slice3, slice1)
+	inspectSlice(slice3)
 }
 
 // inspectSlice exposes the slice header for review.
 func inspectSlice(slice []string) {
 	fmt.Printf("Length[%d] Capacity[%d]\n", len(slice), cap(slice))
-	for i := range slice {
+	for i, s := range slice {
 		fmt.Printf("[%d] %p %s\n",
 			i,
 			&slice[i],
-			slice[i])
+			s)
 	}
 }

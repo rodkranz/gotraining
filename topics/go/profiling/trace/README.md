@@ -15,7 +15,7 @@ Run the program to download a file. Use the `LoadWrite()` function first and the
 Build and run the program.
 
     $ go build
-    $ ./trace
+    $ time ./trace > p.trace
 
 Run run the trace tool and inspect the trace.
 
@@ -27,10 +27,10 @@ Generate a CPU profile.
     
 View the profile.
 
-    $ go tool pprof ./trace cpu.out  
+    $ go tool pprof cpu.out  
 
 ## Code Review
  
-[Profiling Test](trace.go) ([Go Playground](https://play.golang.org/p/QJahKPIydE))
+[Profiling Test](trace.go) ([Go Playground](https://play.golang.org/p/AbAfYByFys0))
 ___
 All material is licensed under the [Apache License Version 2.0, January 2004](http://www.apache.org/licenses/LICENSE-2.0).

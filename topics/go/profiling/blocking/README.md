@@ -12,7 +12,7 @@ Generate a block profile from running the test.
 
 Run the pprof tool to view the blocking profile.
 
-	$ go tool pprof blocking.test block.out
+	$ go tool pprof block.out
 
 Review the TestLatency function.
 
@@ -36,6 +36,6 @@ No Extra links at this time.
 
 ## Code Review
 
-[Blocking Trace](blocking_test.go) ([Go Playground](https://play.golang.org/p/cjqIVeAwHz)) 
+[Blocking Trace](blocking_test.go) ([Go Playground](https://play.golang.org/p/e8J13dIxWe6)) 
 ___
 All material is licensed under the [Apache License Version 2.0, January 2004](http://www.apache.org/licenses/LICENSE-2.0).

@@ -29,13 +29,13 @@ Our classes are perfect for intermediate-level developers who have at least a fe
 ## Our Teachers
 
 ### William Kennedy ([@goinggodotnet](https://twitter.com/goinggodotnet))  
-_William Kennedy is a managing partner at Ardan Studio in Miami, Florida, a mobile, web, and systems development company. He is also a co-author of the book Go in Action, the author of the blog GoingGo.Net, and a founding member of GoBridge which is working to increase Go adoption through diversity._
+_William Kennedy is a managing partner at Ardan Labs in Miami, Florida. Ardan Labs is a high-performance development and training firm working with startups and fortune 500 companies. He is also a co-author of the book Go in Action, the author of the blog GoingGo.Net, and a founding member of GoBridge which is working to increase Go adoption through diversity._
 
 _**Video Training**_  
 [Ultimate Go Live Lessons](http://www.informit.com/store/ultimate-go-programming-livelessons-9780134757483)
 
 _**Blog**_  
-[Going Go](https://www.goinggo.net/)    
+[Going Go](https://www.ardanlabs.com/blog/)    
 
 _**Writing**_  
 [Running MongoDB Queries Concurrently With Go](http://blog.mongodb.org/post/80579086742/running-mongodb-queries-concurrently-with-go)    
@@ -45,8 +45,14 @@ _**Articles**_
 [IT World Canada](http://www.itworldcanada.com/article/nascent-google-development-language-shows-promise-for-more-productive-coding/387449)
 
 _**Video**_  
+[GopherChina (2018) - Composition In Go William](https://www.youtube.com/watch?v=pvLUO9ZManM&feature=youtu.be)  
+[GopherCon Singapore (2018) - Optimizing For Correctness](https://engineers.sg/video/optimize-for-correctness-gopherconsg-2018--2610)  
+[GopherCon India (2018) - What is the Legacy You Are Leaving Behind](https://www.youtube.com/watch?v=j3zCUc06OXo&t=0s&index=11&list=PLhJxE57Cki63cElK2kmt3_vi8j2eIHTqZ)  
+[Code::Dive (2017) - Optimizing For Correctness](https://www.youtube.com/watch?v=OTLjN8NQDyo)  
+[Code::Dive (2017) - Go: Concurrency Design](https://www.youtube.com/watch?v=OrctYMf4btA)  
+[dotGo (2017) - Behavior Of Channels](https://www.youtube.com/watch?v=zDCKZn4-dck)  
 [GopherCon Singapore (2017) - Escape Analysis](https://engineers.sg/video/escape-analysis-and-memory-profiling-gophercon-sg-2017--1746)  
-[Capital Go 2017 - Concurrency Design](https://www.youtube.com/watch?v=yGOOUCrrgrE&index=10&list=PLeGxIOPLk9EKdl-h_Y-sbLhLoP-ia7CJ5)  
+[Capital Go (2017) - Concurrency Design](https://www.youtube.com/watch?v=yGOOUCrrgrE&index=10&list=PLeGxIOPLk9EKdl-h_Y-sbLhLoP-ia7CJ5)  
 [GopherCon India (2017) - Package Oriented Design](https://www.youtube.com/watch?v=spKM5CyBwJA#t=0m56s)  
 [GopherCon India (2015) - Go In Action](https://www.youtube.com/watch?v=QkPw8-Pf0SM)  
 [GolangUK (2016) - Dependency Management](https://youtu.be/CdhucJShJU8)  
@@ -63,10 +69,27 @@ _**Video**_
 [Vancouver Meetup - Decoupling From Change](https://www.youtube.com/watch?v=7YcLIbG1ekM&feature=youtu.be)  
 
 _**Podcasts**_  
-[Your Tech Interviews are Scaring Away Brilliant People](http://hellotechpros.com/william-kennedy-people)    
-[The 4 Cornerstones of Writing Software](http://hellotechpros.com/bill-kennedy-productivity)  
-[Bill Kennedy on Mechanical Sympathy](https://changelog.com/gotime/6)  
-[Discussing Imposter Syndrome](https://changelog.com/gotime/30)  
+[GoTime: Learning and Teaching Go](https://changelog.com/gotime/72)  
+[GoTime: Bill Kennedy on Mechanical Sympathy](https://changelog.com/gotime/6)  
+[GoTime: Discussing Imposter Syndrome](https://changelog.com/gotime/30)  
+[HelloTechPros: Your Tech Interviews are Scaring Away Brilliant People](http://hellotechpros.com/william-kennedy-people)    
+[HelloTechPros: The 4 Cornerstones of Writing Software](http://hellotechpros.com/bill-kennedy-productivity)  
+
+### Jacob Walker ([@jcbwlkr](https://twitter.com/jcbwlkr))  
+Jacob is a software developer, consultant, community organizer, and has really nice hair. Like ridiculously nice hair. He started his career creating web applications in PHP, Ruby, and Node.js. When he discovered Go he dove in deep and hasn't regretted it for a minute. Coming from the thriving metropolis of Wichita, Kansas he organizes the [devICT](https://devict.org/) community whose mission is to "Educate, Empower, and Connect software developers in the Wichita area". Jacob also works closely with [Women Who Code Wichita](https://www.meetup.com/WWCWichita/), [Open Wichita](http://openwichita.com/), [MakeICT](http://makeict.org/), and [Kansas Linux Fest](http://kansaslinuxfest.org/). When he isn't working or organizing Jacob is spending time with his wife and three kids, staying up too late with video games, cooking, or playing Dungeons and Dragons.
+
+_**Writing**_  
+[Jacob Walker's blog](http://www.jacob-walker.com/)  
+
+_**Video**_  
+[Better Allies in Tech](https://www.youtube.com/watch?v=PWheG9CyUAY)  
+[An Informal Intro to Docker](https://www.youtube.com/watch?v=xYNJ_IAj35Q)  
+[Women Who Code Intro To Go Workshop](https://www.youtube.com/watch?v=gDxSiKNk0Pw)  
+[Getting Started with Go](https://www.youtube.com/watch?v=zVvjpLu6iIo)  
+[Vim and Emacs Chat: Part 1: Vim](https://www.youtube.com/watch?v=SaGgc8xnO1U)  
+[Regular Expressions 101](https://www.youtube.com/watch?v=4LnyHF8dnIk)  
+[Implementing OOP (Ruby and PHP)](https://www.youtube.com/watch?v=7QoEfPYULXM)  
+[Templating In PHP With Twig](https://www.youtube.com/watch?v=deqGYV8P0Nc)  
 
 ### Daniel Whitenack ([@dwhitena](https://twitter.com/dwhitena))  
 Daniel Whitenack is a PhD trained data scientist/engineer with industry experience developing data science applications for large and small companies, including predictive models, dashboards, recommendation engines, and more. Daniel has spoken at conferences around the world (Gopherfest, GopherCon, and more), maintains the Go kernel for Jupyter, and is actively helping to organize contributions to various open source data science projects.
@@ -84,98 +107,88 @@ _**Video**_
 _**Podcasts**_  
 [Go Time - Episode 4](https://changelog.com/gotime/4)    
 
-### Jacob Walker ([@jcbwlkr](https://twitter.com/jcbwlkr))  
-Jacob is a software developer, consultant, community organizer, and has really nice hair. Like ridiculously nice hair. He started his career creating web applications in PHP, Ruby, and Node.js. When he discovered Go he dove in deep and hasn't regretted it for a minute. Coming from the thriving metropolis of Wichita, Kansas he organizes the [devICT](https://devict.org/) community whose mission is to "Educate, Empower, and Connect software developers in the Wichita area". Jacob also works closely with [Women Who Code Wichita](https://www.meetup.com/WWCWichita/), [Open Wichita](http://openwichita.com/), [MakeICT](http://makeict.org/), and [Kansas Linux Fest](http://kansaslinuxfest.org/). When he isn't working or organizing Jacob is spending time with his wife and three kids, staying up too late with video games, cooking, or playing Dungeons and Dragons.
-
-_**Writing**_  
-[Jacob Walker's blog](http://www.jacob-walker.com/)  
-
-_**Video**_  
-[An Informal Intro to Docker](https://www.youtube.com/watch?v=xYNJ_IAj35Q)  
-[Women Who Code Intro To Go Workshop](https://www.youtube.com/watch?v=gDxSiKNk0Pw)  
-[Getting Started with Go](https://www.youtube.com/watch?v=zVvjpLu6iIo)  
-[Vim and Emacs Chat: Part 1: Vim](https://www.youtube.com/watch?v=SaGgc8xnO1U)  
-[Regular Expressions 101](https://www.youtube.com/watch?v=4LnyHF8dnIk)  
-[Implementing OOP (Ruby and PHP)](https://www.youtube.com/watch?v=7QoEfPYULXM)  
-[Templating In PHP With Twig](https://www.youtube.com/watch?v=deqGYV8P0Nc)  
-
 ### John Gosset ([@jgosset_](https://twitter.com/jgosset_))  
 John is a consultant and software developer based in Montreal, Canada. He works on server software and embedded systems, and has worked with organizations large and small in both the public and private sectors - from the Canadian government and FinTech companies to small carpet manufacturers in Saint-Jean-sur-Richelieu, Quebec. He is also a contractor for RedHat, and volunteers with the Software Carpentry Foundation to help research scientists learn programming fundamentals. He believes coding is a useful skill for anyone to have, and is passionate about helping make it more accessible to everybody.
 
 _**Video**_  
 [GopherCon Brazil - Go Scratch That Itch](https://www.youtube.com/watch?v=EIUvUBS-3ZE)  
 
-### Ernesto Jimenez ([@ernesto_jimenez](https://twitter.com/ernesto_jimenez))  
-Ernesto is a combination of engineer and product manager who has worked on different kinds of products, from webapps to APIs and games in both startups and big corporations. He sees technology as a tool to build great products that solve real problems for customers. Based in London, Ernesto spends spare time contributing to open source projects, building small hacks and rock climbing. He is originally from Spain and studied Computer Science in Spain and Finland.
-
-_**Writing**_  
-[Reducing boilerplate with go generate](https://blog.gopheracademy.com/advent-2015/reducing-boilerplate-with-go-generate)  
-[Writing good unit tests for SOLID Go](https://blog.gopheracademy.com/advent-2016/how-to-write-good-tests-for-solid-code)  
-
 ## Current Schedule
 
 If you are interested in holding an event in your area please let me know. We will work with you and your organization to help make it happen.
 
 ### 2018
-		Type         Type     Venue             Location               Month      Trainer            Url
-		=====================================================================================================================================================================================
-		Meetup       Go       Loyola University Loyola                 February   Bill Kennedy
-		Conference   Adv Go   GopherCon India   Pune, India            February   Bill Kennedy
-		CodeFest     Go       TBD               Novosibirsk, Russia    March      Bill Kennedy       https://www.codefest.ru/speakers/en/index.html
-		Conference   Adv Go   TBD               China                  April      Bill Kennedy
 
-### 2017       
-		Type         Type     Venue             Location               Month      Trainer            Url
-		=====================================================================================================================================================================================
-		Corporate    Go       GNS Science       Wellington, NZ         January    Bill Kennedy
-		Corporate    Go       Pearson           San Francisco, CA      March      Bill Kennedy 		
-		Corporate    Go       Intel             Portland, OR           March      Bill Kennedy 		
-		Corporate    Go       Apcera            SF, CA                 April      Bill Kennedy 		
-		Corporate    Go       Capital One       SF, CA                 May        Bill Kennedy
-		Corporate    Go       Sky Betting       Leeds, UK              May        Bill Kennedy 		
-		Corporate    Go       Intel             Chandler, AZ           June       Bill Kennedy
-		Corporate    Go       Finxact           Jaxksonville, FL       June       Bill Kennedy
-		Corporate    Go       Apcera            SF, CA                 June       Bill Kennedy 		
-		Corporate    Go       Comcast           Reston, VA             July       Bill Kennedy
-		Corporate    Go       Capital One       Washington, D.C.       August     Bill Kennedy 		
-		Corporate    Go       Teradata          San Diego              August     Bill Kennedy 		
-		Corporate    Go       Visa              Denver                 September  Jacob Walker 		
-		Corporate    Go       Capital One       Washington, D.C.       October    Bill Kennedy 		
-		Corporate    Go       CISCO             San Jose, CA           October    Bill Kennedy 		
-		Corporate    Go       Wayfair           Boston, MA             December   Bill Kennedy 	
-		Corporate    Go       Red Ventures      Charlotte, NC          December   Bill Kennedy 	
-		Corporate    Go       Skillsmatter      London, UK             December   Bill Kennedy 		
+**Bill Kennedy**  
+```
+Date                Location              Venue               Type         Type             Url
+================================================================================================================================================
+January(23-25)      St. Louis, MO         Centene             Corporate    Go (3 day)       
+January(29-31)      Toronto, Canada       Index Exchange      Corporate    Go (3 day)       
+February(06-08)     Paris, France         Oxiane              Corporate    Go (3 day)       
+February(15)        Chicago, IL           Loyola University   Meetup       Go (talk)        
+February(20-21)     Belgrade, Serbia      Fincore             Corporate    Go (2 day)       
+February(24-25)     Berlin, Germany       Hello Fresh         WWG          Go (2 day)       https://www.meetup.com/Women-Who-Go-Berlin/events/247056137/
+March(07-10)        Pune, India           GopherCon India     Conference   Adv Go (1 day)   http://www.gophercon.in/go-workshop1/
+March(20-22)        Lanham, MD            McMurdo Group       Corporate    Go (3 day)       
+April(02-04)        NYC, NY               Tumblr              Corporate    Go (3 day)       
+April(09-11)        Singapore             NCS                 Corporate    Go (3 day)       
+April(14-15)        Shanghai, China       Garden Hotel        Conference   Adv Go (1 day)   http://gopherchina.org/
+May(02-04)          Singapore             Google              Conference   Adv Go (1 day)   https://2018.gophercon.sg/
+May(08-10)          Santa Monica, CA      Hallmark            Corporate    Go (3 day)       
+May(16-18)          Belgrade, Serbia      Fincore             Corporate    Go (3 day)       
+May(31-02)          Reykjavík, Iceland    Harpa               Conference   Adv Go (1 day)   https://gophercon.is/
+June(06-08)         Singapore             SP Digital          Corporate    Go (3 day)       
+June(25-26)         NYC, NY               QCON                Conference   Adv Go (1 day)   https://qconnewyork.com/
+June(30-01)         Providence, RI        Intercity Geeks     GoBridge     Go (2 day)       http://careerdevs.com/goprovidence/
+July(02-06)         San Francisco, CA     Pearson             Video        Go (4 day)
+July(09-16)         San Diego, CA         TBD                 Meetup       Go (talk)
+July(25-30)         Indianapolis, IN      NFL Experience      Vaca         Available
+July(31-02)         Los Angles, CA        Tradesy             Corporate    Go (3 day)
+August(13-15)       Atlanta, GA           Turner              Corporate    Go (3 day)
+August(18-19)       Berlin, Germany       TBD                 WWG          Go (2 day)       https://www.meetup.com/Women-Who-Go-Berlin
+August(27)          Denver, CO            Gophercon USA       Conference   Adv Go (1 day)   https://www.gophercon.com/
+September(01-02)    San Franisco, CA      TBD                 WWG          Go (2 day)       https://www.meetup.com/Women-Who-Go/
+September(27-01)    Huntsville, AL        Wine Festival       Vaca         Available
+October(22-23)      Florence, Italy       GoLab               Conference   Adv Go (1 day)   https://www.golab.io/
+November(08-09)     San Franisco, CA      QCON                Conference   Adv Go (1 day)   https://qconsf.com/
+December(04-05)     TBD                   Zip Recruiter       Corporate    Go (3 day)
+```
 
-		Public       Go       Fire Tavern       Atlanta, GA            March      Bill Kennedy       https://www.eventbrite.com/e/ultimate-go-atlanta-march-2017-tickets-31036843033
-		Public       Go       1up Events        San Francisco, CA      April      Bill Kennedy       https://www.eventbrite.com/e/ultimate-go-san-francisco-april-2017-tickets-31485558152
-		Public       Go       Skillsmatter      London, England        May        Ernesto Jimenez    https://skillsmatter.com/courses/563-ardanlabs-ultimate-go-workshop
-		Public       Go       The Lab           Miami, FL              May        Bill Kennedy       https://www.eventbrite.com/e/ultimate-go-miami-may-2017-tickets-32131447023
-		Public       Go       bol.com           Utrecht, Netherlands   June       Bill Kennedy       https://www.eventbrite.com/e/ultimate-go-netherlands-june-2017-tickets-32131027769
-		Public       Data     Fieldlens         NYC, NY                June       Daniel Whitenack   https://www.eventbrite.com/e/ultimate-data-new-york-june-2017-tickets-32130974610
-		Public       Web      MakeICT           Wichita, KS            August     Jacob Walker       https://www.meetup.com/devict/events/241511080/
-		
-		GoBridge     Go       Framingham        Framingham, MA         February   Bill Kennedy       https://www.bridgetroll.org/events/329
-		WWG          Web      Buzzfeed          San Francisco, CA      March      Jacob Walker       https://www.meetup.com/Women-Who-Go/events/237660344
-		WWG          Data     TuneIn            San Francisco, CA      April      Daniel Whitenack   https://www.meetup.com/Women-Who-Go/events/237660548
-		GoBridge     Go       Framingham        Framingham, MA         April      Bill Kennedy       https://www.bridgetroll.org/events/343
-		GoBridge     Go       SUNY Potsdam      Potsdam, NY            May        Bill Kennedy       https://www.eventbrite.com/e/ultimate-go-with-william-kennedy-tickets-33174514867
-		WWG          Web      Packet HQ         NYC, NY                May        Jacob Walker       https://www.meetup.com/NYC-Women-Who-Go/events/239306971/
-		WWG          Go       TBD               London England         August     Bill Kennedy       https://www.meetup.com/Women-Who-Go-London/events/241708328/
-		WWG          Go       FullStory         Atlanta, GA            October    Bill Kennedy       https://local.anitaborg.org/event/go-women-with-bill-kennedy/
-		WWG          Go       TBD               San Francisco, CA      November   Bill Kennedy       https://www.meetup.com/Women-Who-Go/events/243468818/
-		
-		Conference   Adv Go   Golab             Florance, IT           January    Bill Kennedy       http://golab.io
-		Conference   Adv Go   GopherCon India   Pune, India            February   Bill Kennedy       http://www.gophercon.in/go-workshop		
-		Conference   Data     GopherCon India   Pune, India            February   Daniel Whitenack	
-		Dev Fest     Adv Go   SUNY Potsdam      Potsdam, NY            March      Bill Kennedy  
-		Conference   Adv Go   Capital Golang    Washington, D.C.       April      Bill Kennedy       http://capitalgolang.com
-		Conference   Go       Singapore         Singapore              May        Bill Kennedy       http://gophercon.sg/workshop
-		Conference   Adv Go   GopherCon         Denver, CO             July       Bill Kennedy
-		Conference   Data     GopherCon         Denver, CO             July       Daniel Whitenack  				
-		Conference   Adv Go   GolangUK          London, England        August     Bill Kennedy       https://www.golanguk.com
-		Conference   Web      GolangUK          London, England        August     Jacob Walker       https://www.golanguk.com
-		Conference   Adv Go   dotGo             Paris, France          November   Bill Kennedy       https://www.dotgo.eu/
-		Conference   Talk     Code::Dive        Wroclaw, Poland        November   Bill Kennedy       http://codedive.pl/
+**Jacob Walker**  
+```
+Date                Location              Venue               Type         Type             Url
+================================================================================================================================================
+February(28-29)     San Jose, CA          Nutanix             Corporate    Go (3 day)
+March(06-08)        St. Louis, MO         Centene             Corporate    Go (3 day)
+March(13-15)        Boulder, CO           Spectra Logic       Corporate    Go (3 day)
+April(03-05)        Santa Monica, CA      Hallmark Labs       Corporate    Go (3 day)
+April(09-11)        St. Louis, MO         Centene             Corporate    Go (3 day)
+April(12-13)        St. Louis, MO         Centene             Corporate    Go (2 day)
+May(22-24)          St. Louis, MO         Centene             Corporate    Go (3 day)
+May(29-31)          Portland, OR          Intel               Corporate    Go (3 day)
+June(12-14)         Sunnyvale, CA         Juniper             Corporate    Go (3 day)
+June(19-21)         Malaysia              Chotot              Corporate    Go (3 day)
+July(10-12)         Chicago, IL           Soft Block          Corporate    Go (3 day)
+July(24-26)         St. Louis, MO         Centene             Corporate    Go (3 day)
+September(11-13)    TBD                   Zip Recruiter       Corporate    Go (3 day)
+```
+
+**Daniel Whitenack**  
+```
+Date                Location              Venue               Type         Type             Url
+================================================================================================================================================
+April(10)           San Francisco, CA     QCON                Conference   AI (1 day)       https://qconsf.com/
+```
+
+### Past Events
+
+Look at how busy we have been training thousands of developers in Go over the past four years.
+
+		2017 : 40 Events 
+		2016 : 37 Events  
+		2015 : 33 Events  
+		2014 :  3 Events  
 
 ## More About Go
 
@@ -183,6 +196,7 @@ Go is an open source programming language that makes it easy to build simple, re
 
 Go is the fusion of performance and productivity wrapped in a language that software developers can learn, use and understand. Go is not C, yet we have many of the benefits of C with the benefits of higher level programming languages.
 
+[The Why of Go](https://www.infoq.com/presentations/go-concurrency-gc) - Carmen Andoh  
 [Go Ten Years and Climbing](https://commandcenter.blogspot.com/2017/09/go-ten-years-and-climbing.html) - Rob Pike  
 [The eigenvector of "Why we moved from language X to language Y"](https://erikbern.com/2017/03/15/the-eigenvector-of-why-we-moved-from-language-x-to-language-y.html) - Erik Bernhardsson  
 [Learn More](https://talks.golang.org/2012/splash.article) - Go Team  
@@ -339,14 +353,6 @@ _"I highly recommend William Kennedy / Ardan Lab for Go Training. William is ext
 Georgi Knox ([@GeorgiCodes](https://twitter.com/georgicodes))  
 _"The Intro to Go Workshop enabled me to come into class with very little knowledge of Go and leave having a firm grasp of the key concepts of the language. Each topic was followed up with hands-on coding problems which helped to solidify what I was learning. My teacher Bill was not only approachable, but very excited about the language and his enthusiasm was contagious. I enjoyed that we talked about some of the lower level implementation details of Go which was something that I had found lacking from some books on the language. Overall I would highly recommend this workshop to anyone looking to learn Go quickly and effectively."_
 
-## Past Events
-
-Look at how busy we have been training thousands of developers in Go over the past four years.
-
-		2017 : 35 Events and counting  
-		2016 : 37 Events  
-		2015 : 33 Events  
-		2014 :  3 Events  
 ___
 
 ## Running Docker
@@ -355,7 +361,7 @@ ___
 **Install Docker Toolbox**  
 https://www.docker.com/products/docker-toolbox
 
-**Build Docker container**
+**Build Docker image**
 ```
 # current path is the source root where Dockerfile exists
 docker build -t ardanlabs/gotraining:latest .
@@ -364,7 +370,7 @@ docker build -t ardanlabs/gotraining:latest .
 **Start Docker container**
 ```
 cd $GOPATH/src/github.com/ardanlabs/gotraining
-docker run -i -t -p 8080:8080 -v "$PWD":/go/src/github.com/ardanlabs/gotraining ardanlabs/gotraining:latest /bin/sh
+docker run -i -t -p 8080:8080 -v "$PWD":/go/src/github.com/ardanlabs/gotraining ardanlabs/gotraining:latest
 ```
 
 **What is running**

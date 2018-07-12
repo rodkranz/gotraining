@@ -23,18 +23,18 @@ https://github.com/golang/go/wiki/SliceTricks
 
 ## Code Review
 
-[Declare and Length](example1/example1.go) ([Go Playground](https://play.golang.org/p/lDKravTEqF))  
-[Reference Types](example2/example2.go) ([Go Playground](https://play.golang.org/p/MuqPFwvDux))  
-[Appending slices](example4/example4.go) ([Go Playground](https://play.golang.org/p/xiI54S0bSN))  
-[Taking slices of slices](example3/example3.go) ([Go Playground](https://play.golang.org/p/Wq9JbadHkC))  
-[Slices and References](example5/example5.go) ([Go Playground](https://play.golang.org/p/zYT3ls_DuV))  
-[Strings and slices](example6/example6.go) ([Go Playground](https://play.golang.org/p/x0Q5ByzxGS))  
-[Variadic functions](example7/example7.go) ([Go Playground](https://play.golang.org/p/58YyAeWjzw))  
-[Range mechanics](example8/example8.go) ([Go Playground](https://play.golang.org/p/cve_NbA6Qn))  
+[Declare and Length](example1/example1.go) ([Go Playground](https://play.golang.org/p/ydOJ1GHgR_Y))  
+[Reference Types](example2/example2.go) ([Go Playground](https://play.golang.org/p/WqDnss06_9E))  
+[Appending slices](example4/example4.go) ([Go Playground](https://play.golang.org/p/E-NTGM6daAA))  
+[Taking slices of slices](example3/example3.go) ([Go Playground](https://play.golang.org/p/rUP9grCot8J))  
+[Slices and References](example5/example5.go) ([Go Playground](https://play.golang.org/p/D88zzGYanvX)  
+[Strings and slices](example6/example6.go) ([Go Playground](https://play.golang.org/p/1RntHk6UPA5))  
+[Variadic functions](example7/example7.go) ([Go Playground](https://play.golang.org/p/rUjWVBMmxgP))  
+[Range mechanics](example8/example8.go) ([Go Playground](https://play.golang.org/p/d1wToBg6oUu))  
 
 ## Advanced Code Review
 
-[Three index slicing](advanced/example1/example1.go) ([Go Playground](https://play.golang.org/p/QZQIdaTgtG))
+[Three index slicing](advanced/example1/example1.go) ([Go Playground](https://play.golang.org/p/2CM_LPBnfIR))
 
 ## Exercises
 
@@ -44,7 +44,7 @@ https://github.com/golang/go/wiki/SliceTricks
 
 **Part B** Declare a slice of five strings and initialize the slice with string literal values. Display all the elements. Take a slice of index one and two and display the index position and value of each element in the new slice.
 
-[Template](exercises/template1/template1.go) ([Go Playground](https://play.golang.org/p/sE06PRtw7h)) | 
-[Answer](exercises/exercise1/exercise1.go) ([Go Playground](https://play.golang.org/p/DLX9f0Lek0))
+[Template](exercises/template1/template1.go) ([Go Playground](https://play.golang.org/p/t8I3xz2jWCl)) | 
+[Answer](exercises/exercise1/exercise1.go) ([Go Playground](https://play.golang.org/p/0xv7GTHHIR_K))
 ___
 All material is licensed under the [Apache License Version 2.0, January 2004](http://www.apache.org/licenses/LICENSE-2.0).

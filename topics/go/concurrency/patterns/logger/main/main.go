@@ -20,7 +20,7 @@ type device struct {
 
 // Write implements the io.Writer interface.
 func (d *device) Write(p []byte) (n int, err error) {
-	if d.problem {
+	for d.problem {
 
 		// Simulate disk problems.
 		time.Sleep(time.Second)

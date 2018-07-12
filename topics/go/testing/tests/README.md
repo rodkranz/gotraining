@@ -1,6 +1,6 @@
 ## Testing
 
-Testing is built right into the go tools and the standard library. Testing needs to be a vital part of the development process because it can save you a tremendous amount of time throughout the life cycle of the project. Benchmarking is also a very powerful tool tied to the testing functionality. Aspect of your code can be setup to be benchmarked for performance reviews. Profiling provides a view of the interations between functions and which functions are most heavlily used.
+Testing is built right into the go tools and the standard library. Testing needs to be a vital part of the development process because it can save you a tremendous amount of time throughout the life cycle of the project. Benchmarking is also a very powerful tool tied to the testing functionality. Aspect of your code can be setup to be benchmarked for performance reviews. Profiling provides a view of the interations between functions and which functions are most heavily used.
 
 ## Notes
 
@@ -11,6 +11,10 @@ Testing is built right into the go tools and the standard library. Testing needs
 * Benchmark throughout the dev, qa and release cycles.
 * If performance problems are observed, profile your code to see what functions to focus on.
 * The tools can interfere with each other. For example, precise memory profiling skews CPU profiles, goroutine blocking profiling affects scheduler trace, etc. Rerun tests for each needed profiling mode.
+
+## Quotes
+
+_"A unit test is a test of behavior whose success or failure is wholly determined by the correctness of the test and the correctness of the unit under test." - Kevin Henney
 
 ## Links
 
@@ -31,12 +35,12 @@ https://vimeo.com/141698770
 
 ## Code Review
 
-[Basic Unit Test](example1/example1_test.go) ([Go Playground](https://play.golang.org/p/bYkkr3uQcp))  
-[Table Unit Test](example2/example2_test.go) ([Go Playground](https://play.golang.org/p/hhavdseEPj))  
-[Mocking Web Server Response](example3/example3_test.go) ([Go Playground](https://play.golang.org/p/JJ_2VIL_R6))  
-[Testing Internal Endpoints](example4/handlers/handlers_test.go) ([Go Playground](https://play.golang.org/p/HwuD-eNAOg))  
-[Example Test](example4/handlers/handlers_example_test.go) ([Go Playground](https://play.golang.org/p/6V2J5gr7GC))  
-[Sub Tests](example5/example5_test.go) ([Go Playground](https://play.golang.org/p/d4ZVYkZUGr))  
+[Basic Unit Test](example1/example1_test.go) ([Go Playground](https://play.golang.org/p/im0oID5y78a))  
+[Table Unit Test](example2/example2_test.go) ([Go Playground](https://play.golang.org/p/LNAJRrNvzTh))  
+[Mocking Web Server Response](example3/example3_test.go) ([Go Playground](https://play.golang.org/p/37Lcogkc6HZ))  
+[Testing Internal Endpoints](example4/handlers/handlers_test.go) ([Go Playground](https://play.golang.org/p/x3dFn-O2ZfW))  
+[Example Test](example4/handlers/handlers_example_test.go) ([Go Playground](https://play.golang.org/p/rE0DRliZH9t))  
+[Sub Tests](example5/example5_test.go) ([Go Playground](https://play.golang.org/p/hEcf2I9g42h))  
 
 _Look at the profiling topic to learn more about using test to [profile](../profiling) code._
 

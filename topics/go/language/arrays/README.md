@@ -110,7 +110,7 @@ Send packet CA->Netherlands->CA .... 150,000,000 ns  = 150 ms
 
 [CPU Caches and Why You Care - Video](https://www.youtube.com/watch?v=WDIkqP4JbkE) - Scott Meyers  
 [CPU Caches and Why You Care - Deck](http://www.aristeia.com/TalkNotes/codedive-CPUCachesHandouts.pdf) - Scott Meyers  
-[Mythbusting Modern Hardware to Gain 'Mechanical Sympathy`](https://www.youtube.com/watch?v=MC1EKLQ2Wmg) - Martin Thompson  
+[Mythbusting Modern Hardware to Gain 'Mechanical Sympathy'](https://www.youtube.com/watch?v=MC1EKLQ2Wmg) - Martin Thompson  
 [What Every Programmer Should Know About Memory](http://www.akkadia.org/drepper/cpumemory.pdf) - Ulrich Drepper  
 [How CPU Caches Work and Why](http://www.extremetech.com/extreme/188776-how-l1-and-l2-cpu-caches-work-and-why-theyre-an-essential-part-of-modern-chips) - Joel Hruska  
 [Modern Microprocessors A 90 Minute Guide](http://www.lighterra.com/papers/modernmicroprocessors) - Jason Robert Carey Patterson  
@@ -137,10 +137,10 @@ Send packet CA->Netherlands->CA .... 150,000,000 ns  = 150 ms
 
 ## Code Review
 
-[Declare, initialize and iterate](example1/example1.go) ([Go Playground](https://play.golang.org/p/wUzREuHhLY))  
-[Different type arrays](example2/example2.go) ([Go Playground](https://play.golang.org/p/tyOZ5_zBUN))  
-[Contiguous memory allocations](example3/example3.go) ([Go Playground](https://play.golang.org/p/DyZ7spMgZ3))  
-[Range mechanics](example4/example4.go) ([Go Playground](https://play.golang.org/p/Hym5wBsEMO))  
+[Declare, initialize and iterate](example1/example1.go) ([Go Playground](https://play.golang.org/p/OIh-XVdDSZb))  
+[Different type arrays](example2/example2.go) ([Go Playground](https://play.golang.org/p/KmXH8Z9F3Rh))  
+[Contiguous memory allocations](example3/example3.go) ([Go Playground](https://play.golang.org/p/guj-ZvSF0qS))  
+[Range mechanics](example4/example4.go) ([Go Playground](https://play.golang.org/p/cx4GEViWjC7))  
 
 ## Exercises
 
@@ -148,7 +148,7 @@ Send packet CA->Netherlands->CA .... 150,000,000 ns  = 150 ms
 
 Declare an array of 5 strings with each element initialized to its zero value. Declare a second array of 5 strings and initialize this array with literal string values. Assign the second array to the first and display the results of the first array. Display the string value and address of each element.
 
-[Template](exercises/template1/template1.go) ([Go Playground](https://play.golang.org/p/H1jTYxk7o6)) | 
-[Answer](exercises/exercise1/exercise1.go) ([Go Playground](https://play.golang.org/p/i_2oDZ1ZSg))
+[Template](exercises/template1/template1.go) ([Go Playground](https://play.golang.org/p/yURUYyZ5_hA)) | 
+[Answer](exercises/exercise1/exercise1.go) ([Go Playground](https://play.golang.org/p/VtuGj8S-K2l))
 ___
 All material is licensed under the [Apache License Version 2.0, January 2004](http://www.apache.org/licenses/LICENSE-2.0).
